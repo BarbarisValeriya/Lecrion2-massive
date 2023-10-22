@@ -1,0 +1,14 @@
+C:\Users\Valeria\Desktop\lection2 C#\FIND\bin\Debug\net7.0\FIND.exe
+C:\Users\Valeria\Desktop\lection2 C#\FIND\bin\Debug\net7.0\FIND.deps.json
+C:\Users\Valeria\Desktop\lection2 C#\FIND\bin\Debug\net7.0\FIND.runtimeconfig.json
+C:\Users\Valeria\Desktop\lection2 C#\FIND\bin\Debug\net7.0\FIND.dll
+C:\Users\Valeria\Desktop\lection2 C#\FIND\bin\Debug\net7.0\FIND.pdb
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\FIND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\FIND.AssemblyInfoInputs.cache
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\FIND.AssemblyInfo.cs
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\FIND.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\FIND.dll
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\refint\FIND.dll
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\FIND.pdb
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\FIND.genruntimeconfig.cache
+C:\Users\Valeria\Desktop\lection2 C#\FIND\obj\Debug\net7.0\ref\FIND.dll
