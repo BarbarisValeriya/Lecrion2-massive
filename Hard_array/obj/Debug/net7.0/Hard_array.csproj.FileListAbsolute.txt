@@ -1,0 +1,14 @@
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\Hard_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\Hard_array.AssemblyInfoInputs.cache
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\Hard_array.AssemblyInfo.cs
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\Hard_array.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\bin\Debug\net7.0\Hard_array.exe
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\bin\Debug\net7.0\Hard_array.deps.json
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\bin\Debug\net7.0\Hard_array.runtimeconfig.json
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\bin\Debug\net7.0\Hard_array.dll
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\bin\Debug\net7.0\Hard_array.pdb
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\Hard_array.dll
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\refint\Hard_array.dll
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\Hard_array.pdb
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\Hard_array.genruntimeconfig.cache
+C:\Users\Valeria\Desktop\lection2 C#\Hard_array\obj\Debug\net7.0\ref\Hard_array.dll
